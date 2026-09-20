@@ -1,0 +1,6 @@
+{
+  "name": "GiriRakshak AI",
+  "description": "AI-Powered Landslide Risk Monitoring & Early Warning Platform",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
